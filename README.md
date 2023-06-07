@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github profile 👋
 
-### 🚀About me 
+###  About me ::
 
 🧠 Hello! I am a web developer with future goals in data science and Artificial Intelligence (AI). I am passionate about technology and am working to become an expert in these areas.
 
@@ -12,13 +12,15 @@ I am always looking for opportunities to apply my knowledge and skills in exciti
 
 If there are any questions or cooperation opportunities, please feel free to contact me. I am looking forward to contribute and grow in this field to bring value and progress to the community.
 
-### Contact with me
-:e-mail: phuchh27@gmail.com
+### Contact with me 🍀
+    ✉ phuchh27@gmail.com 
+    ☎ 
 
 
 
-### Certificate 
-
+### 🧾 Certificate 
+<p>demo</p>
+<img src="https://dotnettrickscloud.blob.core.windows.net/images/how-it-works-certificate.webp" width="160">
 
 ### 💡Tech Stack
 
@@ -40,7 +42,9 @@ If there are any questions or cooperation opportunities, please feel free to con
    </center>
 </div>
 
-### My Streak 🌱
+### ⚙ Product 📦
+📎 
+### My Streak 📊
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=phuchh27)  
 
 💬Feel free to reach out if you have any questions or if you'd like to discuss potential collaborations.
